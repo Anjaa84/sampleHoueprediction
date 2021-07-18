@@ -9,5 +9,5 @@ joblib==0.14.1
 numpy==1.17.4
 gunicorn==19.9.0
 xgboost==0.90
-python==3.7
+
 
